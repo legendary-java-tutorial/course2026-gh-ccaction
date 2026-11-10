@@ -51,3 +51,5 @@ npm test
 ## Лицензия
 
 MIT — файл `LICENSE`.
+
+Алфавит: польская транскрипция — `"alphabet": "polish"` в translit.config.json; Шишкин → Szyszkin.
